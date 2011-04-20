@@ -1,0 +1,21 @@
+Mind Blog e' un programma multi piattaforma?
+
+No. Mind Blog funziona solo su tutte le macchine Linux.
+Cos'e' esattamente mind blog?
+
+Mind Blog è un semplicissimo blog. Rivolto a tutte le persone che adorano il minimal. Mind blog è stato scritto in vari linguaggi. PHP, XML e C. Esatto, questi tre linguaggi hanno dato vita a Mind Blog. Il PHP e' servito per far visualizzare gli articoli agli utenti. L'XML e' un database flat, quindi e' stato impiegato come tale. Infine il C. Cosa c'entra il C con il web? Un piffero. Il C, con un opposito programma, scritto nel medesimo linguaggio, permette di gestire il blog, installandolo ed aggiungendo nuovi articoli.
+Quindi io devo avere un solo programma per gestire il tutto?
+
+Esatto, si chiama Mind_Blog-ADMIN. COme detto precedentemente, e' stato scritto in C. E' scaricabile al seguente link http://pitagora.hellospace.net/mind/forum/index.php?board=3.0 Basta compilarlo, avviarlo da consolle e seguire le semplici istruzioni a video.
+Chi e' il creatore?
+
+Il creatore e' Pitagora. La sua e-mail e' francescoleone.23@gmail.com ed il suo sito web e' www.pitagora.hellospace.net
+Il progetto e' open source?
+
+Certo il progetto e' open source. Il codice e' visionabile in questa sezione: http://pitagora.hellospace.net/mind/forum/index.php?board=3.0
+Come posso contribuire al progetto?
+
+Pitagora offre questo sito web, che e' il punto di ritrovo per tutti quelli che vogliano ampliare, conoscere, ecc il blog http://mindblog.pitagora.hellospace.net/mind/forum
+Un piccolo esempio?
+
+Certo, eccolo: http://www.pitagora.hellospace.net/blog
